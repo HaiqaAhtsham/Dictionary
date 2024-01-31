@@ -35,3 +35,7 @@ Users can resume typing from where they left off, save their progress, and reloa
 
 ## 4. Implementation Guidelines
 Detailed guidelines for implementing major functionalities, including typing text, word completion suggestions, compression, saving/loading, uncompressing, and continuing editing, are provided in the project documentation. Use vector strings, iterators, loops, trie trees, B-trees, and Huffman encoding as instructed.
+
+## Contributing
+Feel free to contribute to the project by submitting bug reports, feature requests, or pull requests. Please adhere to the established coding conventions and functional programming principles.
+
